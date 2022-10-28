@@ -63,12 +63,12 @@
   <section id="hero" class="d-flex align-items-center">
     <div class="container d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-delay="100">
       <div class="row">
-        <div class="col-8">
+        <div class="col-lg-8 col-sm-6 sm-center">
           <h1>Bada O. David</h1>
           <h2>I'm a Web & Mobile Developer based in Lagos</h2>
           <a href="about.php" class="btn-about">About Me</a>
         </div>
-        <div class="col-4">
+        <div class="col-lg-4 col-sm-4">
           <img class="hero-img" title="Me" src="./assets/img/img2.jpg" alt="">
         </div>
       </div>
