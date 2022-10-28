@@ -34,15 +34,15 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex justify-content-between align-items-center">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.html">Dave</a></h1>
+      <h1 class="logo me-auto me-lg-0"><a href="index.php">Dave</a></h1>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="active" href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="resume.html">Resume</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a class="active" href="index.php">Home</a></li>
+          <li><a href="about.php">About</a></li>
+          <li><a href="resume.php">Resume</a></li>
+          <li><a href="services.php">Services</a></li>
+          <li><a href="portfolio.php">Portfolio</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -66,7 +66,7 @@
         <div class="col-8">
           <h1>Bada O. David</h1>
           <h2>I'm a Web & Mobile Developer based in Lagos</h2>
-          <a href="about.html" class="btn-about">About Me</a>
+          <a href="about.php" class="btn-about">About Me</a>
         </div>
         <div class="col-4">
           <img class="hero-img" title="Me" src="./assets/img/img2.jpg" alt="">
